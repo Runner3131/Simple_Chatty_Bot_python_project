@@ -1,0 +1,6 @@
+Hello, i am Timothy Jarvis, and this is my python bot project i did on the jet brains platform. It's a bot that you can chat with. nothing fancy, but on the way
+to real AI.
+
+Thanks for having a look.
+
+XxFreeLancerxX
